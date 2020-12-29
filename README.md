@@ -217,7 +217,7 @@ Technology**
   </a>
 </p>
 
-<p>
+<p align="center">
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjaymajhi&show_icons=true&locale=en&layout=compact"
@@ -226,7 +226,7 @@ Technology**
 </p>
 
 
-<p>
+<p align="center">
   &nbsp;<img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=sanjaymajhi&show_icons=true&locale=en"
@@ -234,7 +234,7 @@ Technology**
   />
 </p>
 
-<p>
+<p align="center">
   <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaymajhi&"
