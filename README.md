@@ -8,14 +8,6 @@
   />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=sanjaymajhi"
-      alt="sanjaymajhi"
-  /></a>
-</p>
-
 - 🌱 I’m currently doing **my BTech in CSE from Maharaja Agrasen Institute of
 Technology** - Have a look at my best project [Insta
 Chat](chat-app-by-sanjay.herokuapp.com/login) - 👨‍💻 All of my projects are
@@ -217,7 +209,13 @@ available at
     />
   </a>
 </p>
-
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"
+    ><img
+      src="https://github-profile-trophy.vercel.app/?username=sanjaymajhi"
+      alt="sanjaymajhi"
+  /></a>
+</p>
 <p>
   <img
     align="left"
@@ -225,7 +223,7 @@ available at
     alt="sanjaymajhi"
   />
 </p>
-<br />
+
 <p>
   &nbsp;<img
     align="center"
@@ -233,7 +231,7 @@ available at
     alt="sanjaymajhi"
   />
 </p>
-<br />
+
 <p>
   <img
     align="center"
