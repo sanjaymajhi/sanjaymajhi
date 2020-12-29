@@ -225,15 +225,13 @@ Technology**
   />
 </p>
 
-<p>
+<p style="display: flex;">
     <img
-    align="left"
     src="https://github-readme-stats.vercel.app/api?username=sanjaymajhi&show_icons=true&locale=en"
     alt="sanjaymajhi"
     width="50%"
-  />&emsp;
+  />
   <img
-    align="right"
     src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaymajhi&"
     alt="sanjaymajhi"
     width="50%"
