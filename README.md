@@ -9,10 +9,9 @@
 </p>
 
 - 🌱 I’m currently doing **my BTech in CSE from Maharaja Agrasen Institute of
-Technology** - Have a look at my best project [Insta
-Chat](chat-app-by-sanjay.herokuapp.com/login) - 👨‍💻 All of my projects are
-available at
-[https://sanjaymajhi.github.io/portfolio/](https://sanjaymajhi.github.io/portfolio/)
+Technology** 
+- Have a look at my best project [InstaChat](chat-app-by-sanjay.herokuapp.com/login) 
+- 👨‍💻 All of my projects are available at [https://sanjaymajhi.github.io/portfolio/](https://sanjaymajhi.github.io/portfolio/)
 - 📫 Reach me at **1sanjaymajhi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -209,13 +208,7 @@ available at
     />
   </a>
 </p>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=sanjaymajhi"
-      alt="sanjaymajhi"
-  /></a>
-</p>
+
 <p>
   <img
     align="left"
@@ -223,7 +216,13 @@ available at
     alt="sanjaymajhi"
   />
 </p>
-
+<p align="left">
+    <a href="https://github.com/ryo-ma/github-profile-trophy"
+      ><img
+        src="https://github-profile-trophy.vercel.app/?username=sanjaymajhi"
+        alt="sanjaymajhi"
+    /></a>
+  </p>
 <p>
   &nbsp;<img
     align="center"
