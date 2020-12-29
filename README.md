@@ -14,6 +14,14 @@ Technology**
 - 👨‍💻 All of my projects are available at [https://sanjaymajhi.github.io/portfolio/](https://sanjaymajhi.github.io/portfolio/)
 - 📫 Reach me at **1sanjaymajhi@gmail.com**
 
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy"
+      ><img
+        src="https://github-profile-trophy.vercel.app/?username=sanjaymajhi"
+        alt="sanjaymajhi"
+    /></a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/sanjay-majhi-898938188/" target="blank"
@@ -211,18 +219,13 @@ Technology**
 
 <p>
   <img
-    align="left"
+    align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjaymajhi&show_icons=true&locale=en&layout=compact"
     alt="sanjaymajhi"
   />
 </p>
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"
-      ><img
-        src="https://github-profile-trophy.vercel.app/?username=sanjaymajhi"
-        alt="sanjaymajhi"
-    /></a>
-  </p>
+
+
 <p>
   &nbsp;<img
     align="center"
