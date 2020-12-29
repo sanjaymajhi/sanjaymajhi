@@ -225,19 +225,17 @@ Technology**
   />
 </p>
 
-
-<p align="center">
-  &nbsp;<img
-    align="center"
+<p>
+    <img
+    align="left"
     src="https://github-readme-stats.vercel.app/api?username=sanjaymajhi&show_icons=true&locale=en"
     alt="sanjaymajhi"
-  />
-</p>
-
-<p align="center">
+    width="50%"
+  />&emsp;
   <img
-    align="center"
+    align="right"
     src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaymajhi&"
     alt="sanjaymajhi"
+    width="50%"
   />
 </p>
