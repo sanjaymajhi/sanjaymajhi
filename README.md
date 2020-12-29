@@ -217,23 +217,19 @@ Technology**
   </a>
 </p>
 
-<p align="center">
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjaymajhi&show_icons=true&locale=en&layout=compact"
-    alt="sanjaymajhi"
-  />
-</p>
-
-<p style="display: flex;">
+<p>
     <img
     src="https://github-readme-stats.vercel.app/api?username=sanjaymajhi&show_icons=true&locale=en"
     alt="sanjaymajhi"
-    width="50%"
-  />
-  <img
+    style="display: block;"
+    />
+  
+</p>
+
+<p>
+    <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaymajhi&"
     alt="sanjaymajhi"
-    width="50%"
+    style="display: block;"
   />
 </p>
