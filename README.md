@@ -24,7 +24,7 @@ Technology**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/sanjay-majhi-898938188/" target="blank"
+  <a href="https://linkedin.com/in/sanjay-majhi-898938188/" target="blank" title="LinkedIn"
     ><img
       align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
@@ -32,7 +32,7 @@ Technology**
       height="30"
       width="40"
   /></a>
-  <a href="https://www.codechef.com/users/sanjay_majhi" target="blank"
+  <a href="https://www.codechef.com/users/sanjay_majhi" target="blank" title="Codechef"
     ><img
       align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
@@ -40,7 +40,7 @@ Technology**
       height="30"
       width="40"
   /></a>
-  <a href="https://codeforces.com/profile/1sanjaymajhi" target="blank"
+  <a href="https://codeforces.com/profile/1sanjaymajhi" target="blank" title="Codeforces"
     ><img
       align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg"
