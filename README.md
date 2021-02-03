@@ -28,7 +28,7 @@ Technology**
     ><img
       align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
-      alt="sanjay-majhi-898938188/"
+      alt="LinkedIn"
       height="30"
       width="40"
   /></a>
@@ -36,7 +36,7 @@ Technology**
     ><img
       align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
-      alt="sanjay_majhi"
+      alt="CodeChef"
       height="30"
       width="40"
   /></a>
@@ -44,11 +44,13 @@ Technology**
     ><img
       align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg"
-      alt="1sanjaymajhi"
+      alt="Codeforces"
       height="30"
       width="40"
   /></a>
 </p>
+
+## My Github Stats
 
 <p>
     <img
