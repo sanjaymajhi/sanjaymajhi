@@ -40,10 +40,10 @@ Technology**
       height="30"
       width="40"
   /></a>
-  <a href="https://www.hackerrank.com/1sanjaymajhi" target="blank"
+  <a href="https://codeforces.com/profile/1sanjaymajhi" target="blank"
     ><img
       align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg"
       alt="1sanjaymajhi"
       height="30"
       width="40"
